@@ -3,9 +3,9 @@
 	
 **Contact info:**
 
-Phone: +375 44 703 09 19
+Phone: +375 (44) 703-09-19;
 
-E-mail: asadchevaanastasia@gmail.com
+E-mail: asadchevaanastasia@gmail.com.
 ***
 
 **Summary**
@@ -18,7 +18,7 @@ Conflict-free, responsible, without bad habits. I try every day to learn somethi
 **Skills**
 
 Java, HTML, SCC, Android Studio, Intellj IDEA, Understanding OOP Principles.
-Skills in working with version control systems: Git 
+Skills in working with version control systems: Git.
 ***
 
 **Experience**
